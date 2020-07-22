@@ -31,3 +31,4 @@ to this "handouts" folder. The result should be a subdirectory called
 ## Collaborators (md: 2 #'s means level 2 heading in document)
 
 - Audrey C Smith (Department of Geography, University of Florida)
+- Carly S Muir (Department of Geography, University of Florida)
