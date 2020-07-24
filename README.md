@@ -49,9 +49,9 @@ Shiny; rgdal; maptools; rraster; ggplot2; spatstat; shapefiles; sp; GISTools; dp
 Output/Results:
 
 LSLAs: Summary Statistics
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/F)
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/F/)
-<img src= https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/F/>
+![Image1](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png)
+![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png/)
+<img src= https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png/>
 
 
 LSLAs: Hotspot Analysis
