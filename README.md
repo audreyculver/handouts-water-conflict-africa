@@ -54,7 +54,7 @@ LSLAs: Summary Statistics
 
 LSLAs: Hotspot Analysis
 
-![Image7](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 Yellow: LSLA
