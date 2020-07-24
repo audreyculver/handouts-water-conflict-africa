@@ -54,19 +54,21 @@ LSLAs: Summary Statistics
 
 LSLAs: Hotspot Analysis
 
-![Image7](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png)
+![Image7](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 
-![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsalaLSLA.png)
+![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
 
 Conflict: Summary Statistics
 
 ![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
+![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-yr-graph1.png)
+
 Conflict: Hotspot Analysis
 
-![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-year-graph1.png)
+![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
 
 
