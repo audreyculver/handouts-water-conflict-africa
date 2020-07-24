@@ -39,7 +39,7 @@ Datasets:
 3) African country national boundaries shapefile
 4) African continent watersheds shapefile
 
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.jpg))
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.JPG))
 
 Packages Used:
 
@@ -62,6 +62,10 @@ Brown: ACLED
 Blue: UPSALA
 
 ![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
+Legend:
+Yellow - LSLAs
+Brown - ACLED
+Blue - UPSALA
 
 Conflict: Summary Statistics
 
