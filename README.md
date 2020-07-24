@@ -8,12 +8,9 @@ Collaborators: Audrey C Smith & Carly S Muir
 
 Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
 
-![Alt text](relative/path/to/EthLSLA1.png?raw=true "Land Transactions in Ethiopia")
 https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
-<img src="EthLSLA1.png" height = "50%" width = "80%" alt="Large-scale Land Acquisitions in Ethiopia" />
-<img src="EthLSLA2.png" height = "50%  width = "600" />
-https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
-<img src="img/your_image_nnem.png" width = "600" alt="descriptive text for image">
+https://github.com/audreyculver/water-conflict-africa/EthLSLA2.png
+
 
 Background:
 
