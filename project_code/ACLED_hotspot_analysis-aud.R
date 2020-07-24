@@ -175,6 +175,7 @@ raster.files
 
 raster.filesALL<-unique(raster.files) ##what does the unique function do?
 
+ex
 heat.raster<-lapply(raster.filesALL, raster)
 #plot(heat.raster)
 heat.raster.stack<-stack(heat.raster)
