@@ -1,12 +1,12 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-###Team: Water-Conflict-Africa
+Team: Water-Conflict-Africa
 
-###Collaborators: Audrey C Smith & Carly S Muir
+Collaborators: Audrey C Smith & Carly S Muir
 
 
-########Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
 ![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
 ![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
 
