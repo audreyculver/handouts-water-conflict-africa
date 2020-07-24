@@ -49,7 +49,7 @@ Output/Results:
 
 LSLAs: Summary Statistics
 ![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Facet_cheating.png)
-![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
+![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/stackedcheating.png)
 
 
 LSLAs: Hotspot Analysis
@@ -58,15 +58,15 @@ LSLAs: Hotspot Analysis
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png)
+![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsalaLSLA.png)
 
 Conflict: Summary Statistics
 
-<img src="Conflict_summary_stats" " height = "50%" width = "50%" alt="Conflict & LSLAsSummary Statistics" />
+![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
 Conflict: Hotspot Analysis
 
-<img src="acled_conflcit_raster2" " height = "50%" width = "50%" alt="Conflict Hotspots" />
+![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-year-graph1.png)
                                                                                         
 
 
