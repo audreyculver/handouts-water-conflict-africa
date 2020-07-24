@@ -51,6 +51,8 @@ Output/Results:
 LSLAs: Summary Statistics
 
 <img src="Facet_cheating" height = "50%" width = "50%" alt="Summary Statistics" />
+stacked2.png
+https://github.com/audreyculver/handouts-water-conflict-africa/blob/master/stacked2.png?raw=true
 
 LSLAs: Hotspot Analysis
 
