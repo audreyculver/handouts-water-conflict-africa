@@ -39,7 +39,7 @@ Datasets:
 3) African country national boundaries shapefile
 4) African continent watersheds shapefile
 
-![Image4](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.jpg))
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.jpg))
 
 Packages Used:
 
@@ -48,8 +48,8 @@ Shiny; rgdal; maptools; rraster; ggplot2; spatstat; shapefiles; sp; GISTools; dp
 Output/Results:
 
 LSLAs: Summary Statistics
-![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Facet_cheating.png))
-![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/stackedcheating.png)
+![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png))
+![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
 
 
 LSLAs: Hotspot Analysis
