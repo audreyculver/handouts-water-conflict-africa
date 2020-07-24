@@ -39,7 +39,7 @@ Datasets:
 3) African country national boundaries shapefile
 4) African continent watersheds shapefile
 
-![Image4](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.jpg)
+![Image4](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.jpg))
 
 Packages Used:
 
