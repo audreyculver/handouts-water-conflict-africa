@@ -69,7 +69,7 @@ Conflict: Summary Statistics
 
 ![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-yr-graph1.png)
 
-Conflict: Hotspot Analysis
+Conflict: Hotspot Analysis 
 
 ![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
