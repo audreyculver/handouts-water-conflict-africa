@@ -3,6 +3,9 @@
 
 Team: Water-Conflict-Africa
 
+Collaborators: Audrey C Smith & Carly S Muir
+
+
 Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
 
 ![Alt text](relative/path/to/EthLSLA1.png?raw=true "Land Transactions in Ethiopia")
