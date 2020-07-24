@@ -7,7 +7,7 @@ Collaborators: Audrey C Smith & Carly S Muir
 
 
 Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
-
+![Image](https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png)
 https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
 https://github.com/audreyculver/water-conflict-africa/EthLSLA2.png
 
