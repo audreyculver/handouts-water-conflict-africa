@@ -1,17 +1,33 @@
+install.packages("rmarkdown")
 
-[CONTRIBUTING.md]: CONTRIBUTING.md
-
-Team: Water-Conflict-Africa
-
-Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
-
+---
+title: 'The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa' 
+author: "Smith, Audrey C. & Muir, Carly S."
+date: "7/24/2020"
+output: html_document
+---
 ![Alt text](relative/path/to/EthLSLA1.png?raw=true "Land Transactions in Ethiopia")
 https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
 <img src="EthLSLA1.png" height = "50%" width = "80%" alt="Large-scale Land Acquisitions in Ethiopia" />
 <img src="EthLSLA2.png" height = "50%  width = "600" />
+
+---
+
 https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
 <img src="img/your_image_nnem.png" width = "600" alt="descriptive text for image">
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(gridExtra)
+library(kableExtra)
+library(readr)
+```
+
+
+---
 Background:
 
 Large-scale land acquisitions (LSLA)- also called land grabs- are the sale or lease of land and water resources, commonly by less developed countries to mostly transnational agri-industrial companies based in economically-rich countries. The land and water resources of host countries are used for commercialized agriculture to produce food crops and biofuels. Africa has experienced the highest frequency of land contracts (> 22 million ha) because of cheap land and labor costs, and the potential to boost yields and reduce yield gaps with modern agricultural techniques and irrigation systems. However, the majority of these land deals use the land for the production of commodity and food crops that require large amounts of water, and food crops that are cultivated are typically exported back to the investor countries or sold in regional or international markets. Meanwhile, a large proportion of the food consumed in African countries is produced by smallholder farmers who rely on often limited land and water resources or imported.  The LSLA hinder small-holder operations by using land that was previously available for subsistence farming.
@@ -20,11 +36,7 @@ LSLAs represent changes in land tenure, driving land-use/land cover change and d
 
 Research Questions:
 
-This project investigates the co-occurrence of large-scale land acquisitions- land/water grabs- and conflict in Africa. We ask the following research questions: 
-
-1) Where are the hotspots of LSLAs and conflict events across the African continent? 
-
-2) Do LSLA and conflict hotspots spatially and temporally co-occur- i.e., do we find significant clusters of both conflict and LSLAs at a) the continental scale, b) the regional scale, and c) within watershed boundaries? 
+This project investigates the co-occurrence of large-scale land acquisitions- land/water grabs- and conflict in Africa. We ask the following research questions: 1) Where are the hotspots of LSLAs and conflict events across the African continent? 2) Do LSLA and conflict hotspots spatially and temporally co-occur- i.e., do we find significant clusters of both conflict and LSLAs at a) the continental scale, b) the regional scale, and c) within watershed boundaries? 
 
 Summer Institute Project Goals:
 
@@ -37,36 +49,90 @@ Datasets:
 
 1) Conflict events: ACLED; UPSALA
 2) Land/water grabs (LSLAs): Land 
-3) African country national boundaries shapefile
-4) African continent watersheds shapefile
+
+---
 
 <img src="LMDDataExample" height = "50%" width = "50%" alt="Example of Land Matrix LSLA Data" />
+
+---
 
 Packages Used:
 
 Shiny; rgdal; maptools; rraster; ggplot2; spatstat; shapefiles; sp; GISTools; dplyr; rworldmap; sf
+---
 
 Output/Results:
 
 LSLAs: Summary Statistics
+---
 
 <img src="Facet_cheating" height = "50%" width = "50%" alt="Summary Statistics" />
 
+---
+
 LSLAs: Hotspot Analysis
+
+---
 
 <img src="finalmap" height = "50%" width = "50%" alt="LSLA Hotspots" />
 
-Conflict: ACLED & UPSALA Data Mapped with LSLA data
 
-<img src="acled_upsala_lsla" " height = "50%" width = "50%" alt="Conflict & LSLAs" />
+---
 
-Conflict: Summary Statistics
-
-<img src="Conflict_summary_stats" " height = "50%" width = "50%" alt="Conflict & LSLAsSummary Statistics" />
-
-Conflict: Hotspot Analysis
-
-<img src="acled_conflcit_raster2" " height = "50%" width = "50%" alt="Conflict Hotspots" />
-                                                                                        
+```{r raw_data}
+knitr::opts_chunk$set
 
 
+
+
+```
+
+
+
+
+```{r}
+image(..., col = ...(200))
+
+---
+
+
+
+---
+
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+mydata <- read.csv('TransactionLatLon.csv', na.strings =  c('NA', ""))
+alldata <- read.csv( 'AllLM.csv', na.strings = c('NA', ""))
+
+foodcrops <-filter(alldata,
+                   str_detect(Intention.of.investment, 'Food crops')) %>%
+  count(Target.country)%>% 
+  sum(Deal.size) %>%
+  group_by(Target.country)
+library(dplyr)
+data1 <- as.data.frame(alldata %>% group_by (Target.country) %>% count(Target.country, Deal.size))
+data1 <- group_by (Target.country) %>% count(Target.country, Deal.size)
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+library(markdown)
+render("project_rm_test.1")
