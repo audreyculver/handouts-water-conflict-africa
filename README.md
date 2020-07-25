@@ -3,14 +3,13 @@
 
 Team: Water-Conflict-Africa
 
-Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+Collaborators: Audrey C Smith & Carly S Muir
 
-![Alt text](relative/path/to/EthLSLA1.png?raw=true "Land Transactions in Ethiopia")
-https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
-<img src="EthLSLA1.png" height = "50%" width = "80%" alt="Large-scale Land Acquisitions in Ethiopia" />
-<img src="EthLSLA2.png" height = "50%  width = "600" />
-https://github.com/audreyculver/water-conflict-africa/EthLSLA1.png
-<img src="img/your_image_nnem.png" width = "600" alt="descriptive text for image">
+
+Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
+![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
+
 
 Background:
 
@@ -40,7 +39,7 @@ Datasets:
 3) African country national boundaries shapefile
 4) African continent watersheds shapefile
 
-<img src="LMDDataExample" height = "50%" width = "50%" alt="Example of Land Matrix LSLA Data" />
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.JPG))
 
 Packages Used:
 
@@ -49,24 +48,34 @@ Shiny; rgdal; maptools; rraster; ggplot2; spatstat; shapefiles; sp; GISTools; dp
 Output/Results:
 
 LSLAs: Summary Statistics
+![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png))
+![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
 
-<img src="Facet_cheating" height = "50%" width = "50%" alt="Summary Statistics" />
 
 LSLAs: Hotspot Analysis
 
-<img src="finalmap" height = "50%" width = "50%" alt="LSLA Hotspots" />
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
+Yellow: LSLA
+Brown: ACLED
+Blue: UPSALA
 
-<img src="acled_upsala_lsla" " height = "50%" width = "50%" alt="Conflict & LSLAs" />
+![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
+Legend:
+Yellow - LSLAs
+Brown - ACLED
+Blue - UPSALA
 
 Conflict: Summary Statistics
 
-<img src="Conflict_summary_stats" " height = "50%" width = "50%" alt="Conflict & LSLAsSummary Statistics" />
+![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
-Conflict: Hotspot Analysis
+![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-yr-graph1.png)
 
-<img src="acled_conflcit_raster2" " height = "50%" width = "50%" alt="Conflict Hotspots" />
+Conflict: Hotspot Analysis 
+
+![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
 
 
