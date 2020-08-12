@@ -44,13 +44,13 @@ Blue - UPSALA
 Summary Statistics
 ![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png)
 ![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
-
 ![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
 
 
 
 LSLAs Hotspot Map
+
 ![Image11](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
 
@@ -58,6 +58,7 @@ LSLAs Hotspot Map
 
 
 Conflict Hotspot Map 
+
 ![Image12](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
 
