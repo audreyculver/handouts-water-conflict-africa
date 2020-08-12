@@ -1,15 +1,15 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
-Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...
+<b>The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
 ![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
 ![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
 
 
 <b> Background </b>:
-
+* LSLAs, also termed land grabs, are the sale or lease of land and water resources by poor, less developed countries to mostly transnational agri-industrial companies for commercialized agriculture, which are often based in economically rich countries
 
 
 Research Questions:
