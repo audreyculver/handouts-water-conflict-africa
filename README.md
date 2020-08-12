@@ -1,7 +1,7 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-#<b>The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+# <b>The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
   
 Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
