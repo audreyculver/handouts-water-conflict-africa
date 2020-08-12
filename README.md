@@ -1,21 +1,16 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-Team: Water-Conflict-Africa
+The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...
 
-Collaborators: Audrey C Smith & Carly S Muir
-
-
-Project: The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
 ![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
 ![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
 
 
-Background:
+<b> Background <b/>:
 
-Large-scale land acquisitions (LSLA)- also called land grabs- are the sale or lease of land and water resources, commonly by less developed countries to mostly transnational agri-industrial companies based in economically-rich countries. The land and water resources of host countries are used for commercialized agriculture to produce food crops and biofuels. Africa has experienced the highest frequency of land contracts (> 22 million ha) because of cheap land and labor costs, and the potential to boost yields and reduce yield gaps with modern agricultural techniques and irrigation systems. However, the majority of these land deals use the land for the production of commodity and food crops that require large amounts of water, and food crops that are cultivated are typically exported back to the investor countries or sold in regional or international markets. Meanwhile, a large proportion of the food consumed in African countries is produced by smallholder farmers who rely on often limited land and water resources or imported.  The LSLA hinder small-holder operations by using land that was previously available for subsistence farming.
 
-LSLAs represent changes in land tenure, driving land-use/land cover change and disrupting social-ecological systems.  Land/water grabs often result in rural smallholder farmers and agro-pastoralists being displaced from or losing their land, and/or losing access to natural resources on which they depend, thus intensifying competition for limited land and water resources.  Shifts in the access and availability of land and water resources impacts local livelihoods, exacerbate food insecurity and water scarcity, and trigger local and regional conflict. LSLAs have led to discontent, civil unrest, and ultimately greater violence as people are uprooted, retain less land, and compete for resources. 
 
 Research Questions:
 
