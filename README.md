@@ -5,8 +5,8 @@
   
 Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
-![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
-![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
+![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png)
+![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png)
 
 
 <b> Background </b>:
