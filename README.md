@@ -38,8 +38,7 @@ Legend:
 Yellow - LSLAs
 Brown - ACLED
 Blue - UPSALA
-![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
-
+![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png)
 
 
 Summary Statistics
@@ -52,7 +51,7 @@ Summary Statistics
 
 LSLAs Hotspot Map
 
-![Image13](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png)
+![Image13](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
 Conflict Hotspot Map 
 
