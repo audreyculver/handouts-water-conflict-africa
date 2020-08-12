@@ -1,7 +1,7 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-## <b> The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+## <b> The Co-occurrence of Large-Scale Land Acquisitions and Conflict in Africa
   
 Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
@@ -31,8 +31,9 @@ We ask the following research questions:
 3) African continent watersheds shapefile: Transboundary Water Assessment Programme
 
 
-<b>Preliminary Results:</b>
+<b>Preliminary Results & Progress:</b>
 
+Progress
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 ![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
 Legend:
