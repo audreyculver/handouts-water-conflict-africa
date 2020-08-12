@@ -8,7 +8,7 @@ Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...
 ![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
 
 
-<b> Background <b/>:
+<b> Background </b>:
 
 
 
