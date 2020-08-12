@@ -47,14 +47,17 @@ Summary Statistics
 
 ![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
-![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-yr-graph1.png)
+
+
 
 LSLAs Hotspot Map
+![Image11](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
-![Image11|521x580,20%](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
+
+
+
 
 Conflict Hotspot Map 
-
 ![Image12](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
 
