@@ -33,7 +33,6 @@ We ask the following research questions:
 
 <b>Preliminary Results & Progress:</b>
 
-Progress
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 ![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
 Legend:
@@ -54,7 +53,7 @@ Summary Statistics
 
 LSLAs Hotspot Map
 
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png)
 
 Conflict Hotspot Map 
 
