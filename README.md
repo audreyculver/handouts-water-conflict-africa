@@ -2,6 +2,7 @@
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
 <b>The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
+  
 Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
 ![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
