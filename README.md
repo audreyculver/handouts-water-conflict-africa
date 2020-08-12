@@ -3,7 +3,7 @@
 
 <b>The Co-occurrence of Large-scale Land Acquisitions and Conflict in Africa
   
-Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
+Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
 ![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png))
 ![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png))
@@ -16,63 +16,46 @@ Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 * Crops are typically exported back to the investor countries or sold in regional or international markets. Meanwhile, a large proportion of the food consumed in African countries is either imported or produced by smallholder farmers who rely on often limited land and water resources
 * Despite the notion that LSLA will improve food security there has been little evidence showing this to be true, while mounting evidence suggests a strong link between conflict and LSLA. It has been proposed that land grabs will become another important cause of water shortages in the coming decades.
 
-Research Questions:
-
-This project investigates the co-occurrence of large-scale land acquisitions- land/water grabs- and conflict in Africa. We ask the following research questions: 
+<b>Research Questions:</b>
+We base this analysis on the premise that LSLAs are often associated with water-grabs, as the shift to intensive commercial agriculture at transaction sites often require use of the water resources on which local populations depend. The competition for resources can lead to conflict at various scales and land/water grabs (LWG) are believed to exacerbate existing tensions, particularly when they occur in areas with current resource scarcity. This project investigates the co-occurrence of LWG and conflict in Africa. 
+We ask the following research questions: 
 
 1) Where are the hotspots of LSLAs and conflict events across the African continent? 
 
-2) Do LSLA and conflict hotspots spatially and temporally co-occur- i.e., do we find significant clusters of both conflict and LSLAs at a) the continental scale, b) the regional scale, and c) within watershed boundaries? 
+2) Do LSLA and conflict hotspots co-occur- i.e., do we find significant clusters of both conflict and LSLAs at a) the continental scale, b) the regional scale, and c) within watershed boundaries? 
 
-Summer Institute Project Goals:
-
-1) Clean data for analysis: conflict events & LSLAs
-2) Create and run code for hotspot analysis of conflict events and LSLAs independently
-3) Produce summary statistics
-4) Produce hotspot maps 
-
-Datasets:  
+<b>Datasets:</b>  
 
 1) Conflict events: ACLED; UPSALA
-2) Land/water grabs (LSLAs): Land 
-3) African country national boundaries shapefile
-4) African continent watersheds shapefile
-
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/LMDataExample.JPG))
-
-Packages Used:
-
-Shiny; rgdal; maptools; rraster; ggplot2; spatstat; shapefiles; sp; GISTools; dplyr; rworldmap; sf
-
-Output/Results:
-
-LSLAs: Summary Statistics
-![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png))
-![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
+2) Land/water grabs (LSLAs): Global Land Matrix
+3) African continent watersheds shapefile: Transboundary Water Assessment Programme
 
 
-LSLAs: Hotspot Analysis
-
-![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
+<b>Preliminary Results:</b>
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
-Yellow: LSLA
-Brown: ACLED
-Blue: UPSALA
-
 ![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
 Legend:
+
 Yellow - LSLAs
+
 Brown - ACLED
+
 Blue - UPSALA
 
-Conflict: Summary Statistics
+Summary Statistics
+![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png))
+![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
 
 ![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
 ![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/ACLED_HS_conflict-country-yr-graph1.png)
 
-Conflict: Hotspot Analysis 
+LSLAs Hotspot Map
+
+![Image](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/finalmap.png))
+
+Conflict Hotspot Map 
 
 ![Image10](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
                                                                                         
