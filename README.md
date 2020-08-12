@@ -9,8 +9,11 @@ Collaborators: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
 
 <b> Background </b>:
-* LSLAs, also termed land grabs, are the sale or lease of land and water resources by poor, less developed countries to mostly transnational agri-industrial companies for commercialized agriculture, which are often based in economically rich countries
-
+* Large-scale land acquisitions (LSLA), also termed land grabs, are the sale or lease of land and water resources by less developed countries to mostly transnational agri-industrial companies for commercialized agriculture.
+* Africa contains the highest rate of contractd land (> 22 million ha) because of cheap land and labor costs, and the high potential to reduce yield gaps with modern agricultural practices and irrigation systems.
+* Many of these deals use the land for the production of commodity and food crops that require large amounts of water, such as cotton, rice, and sugar cane. Further jeopardizing water supplies, and in countries like Ethiopia or Sudan, worsens the effects of already endemic water scarcity (Freitas, 2013).  
+* Crops are typically exported back to the investor countries or sold in regional or international markets. Meanwhile, a large proportion of the food consumed in African countries is either imported or produced by smallholder farmers who rely on often limited land and water resources
+* Despite the notion that LSLA will improve food security there has been little evidence showing this to be true, while mounting evidence suggests a strong link between conflict and LSLA. It has been proposed that land grabs will become another important cause of water shortages in the coming decades.
 
 Research Questions:
 
