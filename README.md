@@ -51,7 +51,7 @@ Summary Statistics
 
 LSLAs Hotspot Map
 
-![Image13](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
+![Image13|20%](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
 Conflict Hotspot Map 
 
