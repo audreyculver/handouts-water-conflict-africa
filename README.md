@@ -36,12 +36,12 @@ We ask the following research questions:
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 ![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png))
 Legend:
-
 Yellow - LSLAs
 
 Brown - ACLED
 
 Blue - UPSALA
+
 
 Summary Statistics
 ![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/Facet_cheating.png)
