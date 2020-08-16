@@ -43,7 +43,7 @@ Blue - UPSALA
 
 Summary Statistics
 ![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
-![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/StackedHAIntentiong.png)
+![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/StackedHAIntention.JPG)
 ![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
 
