@@ -5,8 +5,8 @@
   
 Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
-![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png)
-![Image3](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png)
+![Before Land Conversion at LSLA](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA1.png)
+![Post Land Conversion at LSLS](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/EthLSLA2.png)
 
 
 <b> Background </b>:
@@ -31,27 +31,36 @@ We ask the following research questions:
 3) African continent watersheds shapefile: Transboundary Water Assessment Programme
 
 
-<b>Preliminary Results & Progress:</b>
+<b>Summary Statistics</b>
+
+Land Acquisitions
+The LM data contains individual points of known LSLA. The dataset is largely unbalanced, but potentially useful attributes of the geospatial dataset include:
+* Water extraction (Yes/No)
+* Water source (Groundwater/Surface)
+* Intention of land deal (Biofuel, Food crops, Both biofuel and food crops, Other) 
+* Presence of land conflict (Yes/No)
+* Previous land cover/land use
+
+![Based on LM, 2020](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
+![Based on LM, 2020](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/StackedHAIntention.JPG)
+
+Conflict Data
+![Image1](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
+
 
 Conflict: ACLED & UPSALA Data Mapped with LSLA data
 Legend:
 Yellow - LSLAs
 Brown - ACLED
 Blue - UPSALA
-![Image8](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png)
+![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png)
 
 
-Summary Statistics
-![Image5](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
-![Image6](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/StackedHAIntention.JPG)
-![Image9](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
-
-
-
+<b>Preliminary Results & Progress:</b>
 
 LSLAs Hotspot Map
 
-![Image11](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
+![LSLA Hotspot](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
 
 
@@ -59,7 +68,11 @@ LSLAs Hotspot Map
 
 Conflict Hotspot Map 
 
-![Image12](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
-                                                                                        
+![Conflict Hotspot](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
 
+
+                                                                                        
+<b>Future work:</b>
+* Implement colocation quotient
+* Develop framework based on human security
 
