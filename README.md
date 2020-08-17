@@ -26,7 +26,7 @@ We ask the following research questions:
 
       a) the continental scale, 
       
-      b) the regional scale, and 
+      b) the regional scale, 
       
       c) within watershed/basin boundaries, and
       
@@ -39,11 +39,9 @@ We ask the following research questions:
 3) African continent watersheds/basins: Transboundary Water Assessment Programme (TWAP)
 
 
-<b>Summary Statistics</b>
+<b>Large-Scale Land Acquisitions</b>  
 
-Large-Scale Land Acquisitions:
-
-The LM data contains individual points of known LSLAs > 200ha in size. The dataset is largely unbalanced, but potentially useful attributes of the geospatial dataset include:
+The LM dataset contains individual points of known LSLAs > 200ha in size. The dataset is largely unbalanced, but potentially useful attributes of the geospatial dataset include:
 * Location of land aquired (at regional level)
 * Size of land acquisition (in hectares)
 * Year of signature of contract (concluded deals, ranging 2000-2018)
@@ -54,32 +52,48 @@ The LM data contains individual points of known LSLAs > 200ha in size. The datas
 * Presence of land conflict (Yes/No)
 * Previous land cover/land use
 
+
+
+
+
+
+<b>ACLED & UPSALA Conflict Events and Mapped LM LSLA Locations<b/>
+
+<b/>Legend:<b/> Yellow-LSLAs; Brown-ACLED; Blue-UPSALA
+
+![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png)
+
+
+
+
+<b>Summary Statistics:</b>
+
+
+
+<b>LSLA Data<b/>
+
 ![Based on LM, 2020](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/stackedcheating.png)
 ![Based on LM, 2020](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/StackedHAIntention.JPG)
 
-Conflict Data
+
+
+<b>Conflict Data<b/>
+  
+ 
+ 
 ![Image1](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/Conflict_summary_stats.png)
 
-
-Conflict: ACLED & UPSALA Data Mapped with LSLA data
-Legend:
-Yellow - LSLAs
-Brown - ACLED
-Blue - UPSALA
-![Image2](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_upsala_lsla.png)
 
 
 <b>Preliminary Results & Progress:</b>
 
-LSLAs Hotspot Map
+<b>LSLAs Hotspot Map<b/>
 
 ![LSLA Hotspot](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/LSLAhotspotmap.png)
 
 
 
-
-
-Conflict Hotspot Map 
+<b>Conflict Hotspot Map<b/>
 
 ![Conflict Hotspot](https://raw.githubusercontent.com/audreyculver/handouts-water-conflict-africa/master/project_plots/acled_conflict_raster2.png)
 
