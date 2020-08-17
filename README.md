@@ -101,6 +101,7 @@ The LM dataset contains individual points of known LSLAs > 200ha in size. The da
                                                                                         
 <b>Current Objectives/Future Work:</b>
 * Develop framework based on human security
+* Create conceptual model/diagram based on human security framework
 * Refine research questions & hypotheses
 * Aggregate LSLA & conflict data by watershed/basins
 * Incorporate other datasets
