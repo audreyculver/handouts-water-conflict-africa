@@ -1,7 +1,7 @@
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
-## <b> The Co-occurrence of Large-Scale Land Acquisitions and Conflict in Africa
+## <b> The Co-occurrence of Large-Scale Land Acquisitions, Water Insecurity, and Conflict in Africa
   
 Contributers: Audrey Smith, Carly Muir, Erin Bunting, Elizabeth Mack...</b>
 
@@ -23,9 +23,13 @@ We ask the following research questions:
 1) Where are the hotspots of LSLAs and conflict events across the African continent? 
 
 2) Do LSLA and conflict hotspots co-occur (spatially & temporally)- i.e., do we find significant hotspots of both conflict and LSLAs at
+
       a) the continental scale, 
+      
       b) the regional scale, and 
+      
       c) within watershed/basin boundaries, and
+      
       d) in areas with greater water insecurity/scarcity?
 
 <b>Main Datasets:</b>  
@@ -37,8 +41,13 @@ We ask the following research questions:
 
 <b>Summary Statistics</b>
 
-Land Acquisitions
-The LM data contains individual points of known LSLA. The dataset is largely unbalanced, but potentially useful attributes of the geospatial dataset include:
+Large-Scale Land Acquisitions:
+
+The LM data contains individual points of known LSLAs > 200ha in size. The dataset is largely unbalanced, but potentially useful attributes of the geospatial dataset include:
+* Location of land aquired (at regional level)
+* Size of land acquisition (in hectares)
+* Year of signature of contract (concluded deals, ranging 2000-2018)
+* Nationality of acquirer of land
 * Water extraction (Yes/No)
 * Water source (Groundwater/Surface)
 * Intention of land deal (Biofuel, Food crops, Both biofuel and food crops, Other) 
