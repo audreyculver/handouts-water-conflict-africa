@@ -22,13 +22,17 @@ We ask the following research questions:
 
 1) Where are the hotspots of LSLAs and conflict events across the African continent? 
 
-2) Do LSLA and conflict hotspots co-occur- i.e., do we find significant clusters of both conflict and LSLAs at a) the continental scale, b) the regional scale, and c) within watershed boundaries? 
+2) Do LSLA and conflict hotspots co-occur (spatially & temporally)- i.e., do we find significant hotspots of both conflict and LSLAs at
+      a) the continental scale, 
+      b) the regional scale, and 
+      c) within watershed/basin boundaries, and
+      d) in areas with greater water insecurity/scarcity?
 
-<b>Datasets:</b>  
+<b>Main Datasets:</b>  
 
 1) Conflict events: ACLED; UPSALA
 2) Land/water grabs (LSLAs): Global Land Matrix
-3) African continent watersheds shapefile: Transboundary Water Assessment Programme
+3) African continent watersheds/basins: Transboundary Water Assessment Programme (TWAP)
 
 
 <b>Summary Statistics</b>
@@ -72,7 +76,11 @@ Conflict Hotspot Map
 
 
                                                                                         
-<b>Future work:</b>
-* Implement colocation quotient
+<b>Current Objectives/Future Work:</b>
 * Develop framework based on human security
+* Refine research questions & hypotheses
+* Aggregate LSLA & conflict data by watershed/basins
+* Incorporate other datasets
+* Implement colocation quotient
+
 
